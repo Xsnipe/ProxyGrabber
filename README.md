@@ -15,3 +15,5 @@ Open up ProxyGrabber.exe or run the .sln file in visual studio and run the debug
 The following API's are used in obtaining the proxys
  - [Proxy List download](https://www.proxy-list.download/)
  - [Proxyscrape](https://proxyscrape.com)
+
+> ## The Source usage does not currently work and will be updated in the next update
