@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\close1.png" />
+    <None Remove="Assets\closed1.png" />
+    <None Remove="Assets\min.png" />
+    <None Remove="Assets\mined.png" />
+    <None Remove="close1.png" />
+    <None Remove="min.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\close1.png" />
+    <Resource Include="Assets\closed1.png" />
+    <Resource Include="Assets\min.png" />
+    <Resource Include="Assets\mined.png" />
+    <Resource Include="close1.png" />
+    <Resource Include="min.png" />
+  </ItemGroup>
+
+</Project>
